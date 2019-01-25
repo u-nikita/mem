@@ -1,0 +1,13 @@
+.mem-table { 
+	margin: auto; 
+	height: calc(96vh - 80px); 
+	width: 90vw; 
+	top: 80px;
+	left: 5vw;
+	position: absolute;
+}
+
+.mem-card { 
+	border: 1px solid gray; 
+	float: left;
+}
